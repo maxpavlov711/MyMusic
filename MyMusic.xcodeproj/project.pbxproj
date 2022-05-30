@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5A00C6F02845380E0053C6E0 /* SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */; };
+		5A00C6F22845624D0053C6E0 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A00C6F12845624D0053C6E0 /* NetworkService.swift */; };
 		5A596FD328425B2F001F1BB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD228425B2F001F1BB3 /* AppDelegate.swift */; };
 		5A596FD528425B2F001F1BB3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD428425B2F001F1BB3 /* SceneDelegate.swift */; };
 		5A596FD728425B2F001F1BB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD628425B2F001F1BB3 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResponse.swift; sourceTree = "<group>"; };
+		5A00C6F12845624D0053C6E0 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		5A596FCF28425B2F001F1BB3 /* MyMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A596FD228425B2F001F1BB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A596FD428425B2F001F1BB3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				5A596FD628425B2F001F1BB3 /* ViewController.swift */,
 				5A596FE628425BF3001F1BB3 /* MainTabBarController.swift */,
 				5A596FE828425E0D001F1BB3 /* SearchViewController.swift */,
+				5A00C6F12845624D0053C6E0 /* NetworkService.swift */,
 				5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */,
 				5A596FD828425B2F001F1BB3 /* Main.storyboard */,
 				5A596FDB28425B33001F1BB3 /* Assets.xcassets */,
@@ -221,6 +224,7 @@
 				5A596FD328425B2F001F1BB3 /* AppDelegate.swift in Sources */,
 				5A596FE728425BF3001F1BB3 /* MainTabBarController.swift in Sources */,
 				5A596FD528425B2F001F1BB3 /* SceneDelegate.swift in Sources */,
+				5A00C6F22845624D0053C6E0 /* NetworkService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
