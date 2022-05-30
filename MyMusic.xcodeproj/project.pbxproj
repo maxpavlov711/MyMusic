@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A00C6F02845380E0053C6E0 /* SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */; };
 		5A596FD328425B2F001F1BB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD228425B2F001F1BB3 /* AppDelegate.swift */; };
 		5A596FD528425B2F001F1BB3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD428425B2F001F1BB3 /* SceneDelegate.swift */; };
 		5A596FD728425B2F001F1BB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A596FD628425B2F001F1BB3 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResponse.swift; sourceTree = "<group>"; };
 		5A596FCF28425B2F001F1BB3 /* MyMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A596FD228425B2F001F1BB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A596FD428425B2F001F1BB3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				5A596FD628425B2F001F1BB3 /* ViewController.swift */,
 				5A596FE628425BF3001F1BB3 /* MainTabBarController.swift */,
 				5A596FE828425E0D001F1BB3 /* SearchViewController.swift */,
+				5A00C6EF2845380E0053C6E0 /* SearchResponse.swift */,
 				5A596FD828425B2F001F1BB3 /* Main.storyboard */,
 				5A596FDB28425B33001F1BB3 /* Assets.xcassets */,
 				5A596FDD28425B33001F1BB3 /* LaunchScreen.storyboard */,
@@ -94,7 +97,6 @@
 				B1218EE02F69BB41A441B3AE /* Pods-MyMusic.debug.xcconfig */,
 				F06BD4CF5F0B72B697BA5EE6 /* Pods-MyMusic.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -215,6 +217,7 @@
 			files = (
 				5A596FE928425E0D001F1BB3 /* SearchViewController.swift in Sources */,
 				5A596FD728425B2F001F1BB3 /* ViewController.swift in Sources */,
+				5A00C6F02845380E0053C6E0 /* SearchResponse.swift in Sources */,
 				5A596FD328425B2F001F1BB3 /* AppDelegate.swift in Sources */,
 				5A596FE728425BF3001F1BB3 /* MainTabBarController.swift in Sources */,
 				5A596FD528425B2F001F1BB3 /* SceneDelegate.swift in Sources */,
