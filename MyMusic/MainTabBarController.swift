@@ -14,7 +14,7 @@ class MainTabBarController: UITabBarController {
         
         view.backgroundColor = .white
         
-        let searchVC: SearchViewController = SearchViewController.loadFromStroyboard()
+        let searchVC: SearchViewController = SearchViewController.loadFromStoryboard()
 
         tabBar.tintColor = #colorLiteral(red: 1, green: 0, blue: 0.3764705882, alpha: 1)
         tabBar.backgroundColor = #colorLiteral(red: 0.921431005, green: 0.9214526415, blue: 0.9214410186, alpha: 1)
